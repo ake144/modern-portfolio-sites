@@ -30,7 +30,7 @@ export function Sidebar() {
         {/* Profile Section */}
         <div className="flex flex-col items-center space-y-4 p-6">
           <Avatar className="h-24 w-24 ring-2 ring-blue-500">
-            <AvatarImage src="/placeholder.svg" alt="Alex Smith" />
+            <AvatarImage src="/ake.png" alt="Alex Smith" />
             <AvatarFallback>AS</AvatarFallback>
           </Avatar>
           <h2 className="text-xl font-semibold">Aklilu Tamirat</h2>

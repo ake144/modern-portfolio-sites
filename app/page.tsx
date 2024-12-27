@@ -14,7 +14,7 @@ export default function Home() {
         <div className="relative h-screen">
           {/* Background Image */}
           <div 
-            className="absolute inset-0 bg-[url('/placeholder.svg')] bg-cover bg-center"
+            className="absolute inset-0 bg-[url('/ake.png')] bg-cover bg-center"
             style={{
               backgroundImage: "linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.6))"
             }}
